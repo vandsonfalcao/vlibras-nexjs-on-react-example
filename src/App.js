@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          This repository
+          Esse Repositório
         </a>
         <a
           className="App-link"
@@ -33,7 +33,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by Vandson Falcão
+        Vandson Falcão
         </a>
       </header>
     </div>
